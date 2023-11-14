@@ -1,0 +1,9 @@
+Thanksgiving = [3, "Tamales", True, "", 0]
+print(Thanksgiving)
+print(Thanksgiving[1])
+print(Thanksgiving[0])
+print(Thanksgiving[4])
+size = len(Thanksgiving)
+print(size)
+Thanksgiving[0]=21
+print(Thanksgiving)
