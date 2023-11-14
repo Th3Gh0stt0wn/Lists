@@ -1,0 +1,7 @@
+myList = ["Minecraft", 14, "BeepBeep", 5.4, True]
+print(myList[0])
+print(myList[4])
+myList[2] = "Sibilance"
+print(myList)
+size = len(myList)
+print(size)
